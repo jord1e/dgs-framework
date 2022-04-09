@@ -4,7 +4,7 @@
             "locked": "2.12.5"
         },
         "org.jetbrains.kotlin:kotlin-bom": {
-            "locked": "1.5.32"
+            "locked": "1.5.3"
         },
         "org.springframework.boot:spring-boot-autoconfigure-processor": {
             "locked": "2.3.12.RELEASE"
